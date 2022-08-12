@@ -1,0 +1,2249 @@
+fileFormatVersion: 2
+guid: ba0fc6955ad75cb4e899dc5b7d7c73f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4265901998662240676
+    second: Atoms_0
+  - first:
+      213: 3656655847697755321
+    second: Atoms_1
+  - first:
+      213: 6361410164103640876
+    second: Atoms_2
+  - first:
+      213: -5040025171377969214
+    second: Atoms_3
+  - first:
+      213: -7640792580594954366
+    second: Atoms_4
+  - first:
+      213: 312534421449897216
+    second: Atoms_5
+  - first:
+      213: -5814606956828880717
+    second: Atoms_6
+  - first:
+      213: -7163185863134329056
+    second: Atoms_7
+  - first:
+      213: -3876082205823087974
+    second: Atoms_8
+  - first:
+      213: -3630320940490025621
+    second: Atoms_9
+  - first:
+      213: -3494087044951351995
+    second: Atoms_10
+  - first:
+      213: 8821661777817460983
+    second: Atoms_11
+  - first:
+      213: 6035096153938943095
+    second: Atoms_12
+  - first:
+      213: -4995346136727222025
+    second: Atoms_13
+  - first:
+      213: 9132789808829231592
+    second: Atoms_14
+  - first:
+      213: 1997540258335103044
+    second: Atoms_15
+  - first:
+      213: -9045303115667422134
+    second: Atoms_16
+  - first:
+      213: 2489478153270750318
+    second: Atoms_17
+  - first:
+      213: 1398391662132087277
+    second: Atoms_18
+  - first:
+      213: -3100906215338252924
+    second: Atoms_19
+  - first:
+      213: -2652017095001951768
+    second: Atoms_20
+  - first:
+      213: 8699226594598105842
+    second: Atoms_21
+  - first:
+      213: 6299327191357947556
+    second: Atoms_22
+  - first:
+      213: 2756017531786173566
+    second: Atoms_23
+  - first:
+      213: -3867529455339528177
+    second: Atoms_24
+  - first:
+      213: 4894123670680359408
+    second: Atoms_25
+  - first:
+      213: 5147332829881616074
+    second: Atoms_26
+  - first:
+      213: 3648474469691370003
+    second: Atoms_27
+  - first:
+      213: 8714344887637656284
+    second: Atoms_28
+  - first:
+      213: 1887915139406401569
+    second: Atoms_29
+  - first:
+      213: -8316786524509712606
+    second: Atoms_30
+  - first:
+      213: -239482859736769535
+    second: Atoms_31
+  - first:
+      213: -6652589454162379292
+    second: Atoms_32
+  - first:
+      213: 284420942179325900
+    second: Atoms_33
+  - first:
+      213: -1364491109699720161
+    second: Atoms_34
+  - first:
+      213: 7927768698774126534
+    second: Atoms_35
+  - first:
+      213: -6935611119058041473
+    second: Atoms_36
+  - first:
+      213: 1137132926833428484
+    second: Atoms_37
+  - first:
+      213: 2865252298524203093
+    second: Atoms_38
+  - first:
+      213: 1392866592729474383
+    second: Atoms_39
+  - first:
+      213: -4970531592098133328
+    second: Atoms_40
+  - first:
+      213: -8981417143606553116
+    second: Atoms_41
+  - first:
+      213: 3211778868161931921
+    second: Atoms_42
+  - first:
+      213: 8449113401981822331
+    second: Atoms_43
+  - first:
+      213: 8233683309527014649
+    second: Atoms_44
+  - first:
+      213: -831205806635673460
+    second: Atoms_45
+  - first:
+      213: 3530110263596545093
+    second: Atoms_46
+  - first:
+      213: 6013500538270143776
+    second: Atoms_47
+  - first:
+      213: 6865290687510563870
+    second: Atoms_48
+  - first:
+      213: -6412059721671860743
+    second: Atoms_49
+  - first:
+      213: -8434922225585233958
+    second: Atoms_50
+  - first:
+      213: -4591445095083750225
+    second: Atoms_51
+  - first:
+      213: -7033144632596863629
+    second: Atoms_52
+  - first:
+      213: 3183876215058663514
+    second: Atoms_53
+  - first:
+      213: 8151031338333247591
+    second: Atoms_54
+  - first:
+      213: -1866414715690491585
+    second: Atoms_55
+  - first:
+      213: 7554906362719113294
+    second: Atoms_56
+  - first:
+      213: 4865911370427958015
+    second: Atoms_57
+  - first:
+      213: -8498628647406577738
+    second: Atoms_58
+  - first:
+      213: -7283842071921445538
+    second: Atoms_59
+  - first:
+      213: 4352725281649015584
+    second: Atoms_60
+  - first:
+      213: -5085902112844622527
+    second: Atoms_61
+  - first:
+      213: -10072211392758454
+    second: Atoms_62
+  - first:
+      213: 4555782343885656248
+    second: Atoms_0
+  - first:
+      213: -5874467028869505108
+    second: Atoms_1
+  - first:
+      213: 462029804471408898
+    second: Atoms_2
+  - first:
+      213: 781923911647911440
+    second: Atoms_3
+  - first:
+      213: 5866994427008758739
+    second: Atoms_4
+  - first:
+      213: 5694979572984611775
+    second: Atoms_5
+  - first:
+      213: 8152132733148346169
+    second: Atoms_6
+  - first:
+      213: 6730524740078452977
+    second: Atoms_7
+  - first:
+      213: -364303567965232306
+    second: Atoms_8
+  - first:
+      213: -8008761547889536738
+    second: Atoms_9
+  - first:
+      213: -8771243365287519075
+    second: Atoms_10
+  - first:
+      213: -6086282439013371812
+    second: Atoms_11
+  - first:
+      213: -9056417320664605034
+    second: Atoms_12
+  - first:
+      213: 2619548141687136722
+    second: Atoms_13
+  - first:
+      213: 8578699304651571257
+    second: Atoms_14
+  - first:
+      213: 1563734526123139753
+    second: Atoms_15
+  - first:
+      213: -4358286296183198363
+    second: Atoms_16
+  - first:
+      213: -8136767708904429039
+    second: Atoms_17
+  - first:
+      213: -5086949039957590377
+    second: Atoms_18
+  - first:
+      213: 1212734150379984885
+    second: Atoms_19
+  - first:
+      213: 7259310508434812172
+    second: Atoms_20
+  - first:
+      213: 5656006328970757097
+    second: Atoms_21
+  - first:
+      213: -4780396494112627757
+    second: Atoms_22
+  - first:
+      213: -8644681457881727401
+    second: Atoms_23
+  - first:
+      213: -7823150850366422424
+    second: Atoms_24
+  - first:
+      213: -5868035555085304915
+    second: Atoms_25
+  - first:
+      213: -2522339350440644018
+    second: Atoms_26
+  - first:
+      213: -1473768789717367449
+    second: Atoms_27
+  - first:
+      213: -4424131971484407940
+    second: Atoms_28
+  - first:
+      213: 5131032998516408937
+    second: Atoms_29
+  - first:
+      213: 2078046528362013619
+    second: Atoms_30
+  - first:
+      213: 1086613996268963177
+    second: Atoms_31
+  - first:
+      213: -7122876706815687033
+    second: Atoms_32
+  - first:
+      213: 5357350749475132016
+    second: Atoms_33
+  - first:
+      213: -3354738848261696351
+    second: Atoms_34
+  - first:
+      213: 953495063910345136
+    second: Atoms_35
+  - first:
+      213: -2205296504005141302
+    second: Atoms_36
+  - first:
+      213: 7421457666125942445
+    second: Atoms_37
+  - first:
+      213: 9077025298648354725
+    second: Atoms_38
+  - first:
+      213: -121058308255928114
+    second: Atoms_39
+  - first:
+      213: -6427405673124735672
+    second: Atoms_40
+  - first:
+      213: -6817475085612035707
+    second: Atoms_41
+  - first:
+      213: 1762842809065754887
+    second: Atoms_42
+  - first:
+      213: -1615210837406440725
+    second: Atoms_43
+  - first:
+      213: 1480827207263550815
+    second: Atoms_44
+  - first:
+      213: -2862408398193347397
+    second: Atoms_45
+  - first:
+      213: 7242398369392082563
+    second: Atoms_46
+  - first:
+      213: -5164563158962110069
+    second: Atoms_47
+  - first:
+      213: 3970463403326617881
+    second: Atoms_48
+  - first:
+      213: 8547358996641541162
+    second: Atoms_49
+  - first:
+      213: 6476988291370115393
+    second: Atoms_50
+  - first:
+      213: 3905679991680126886
+    second: Atoms_51
+  - first:
+      213: 8381444782241223978
+    second: Atoms_52
+  - first:
+      213: -76086967409777388
+    second: Atoms_53
+  - first:
+      213: 9213219876894444406
+    second: Atoms_54
+  - first:
+      213: 7532177273146857350
+    second: Atoms_55
+  - first:
+      213: -2143090442388286820
+    second: Atoms_56
+  - first:
+      213: -2004485873963921248
+    second: Atoms_57
+  - first:
+      213: -882260379436439215
+    second: Atoms_58
+  - first:
+      213: 8518720635881581050
+    second: Atoms_59
+  - first:
+      213: 8840375321298035334
+    second: Atoms_60
+  - first:
+      213: 1040865772779467362
+    second: Atoms_61
+  - first:
+      213: 3020206659459158317
+    second: Atoms_62
+  - first:
+      213: -2024454396349798267
+    second: Atoms_63
+  - first:
+      213: -6774095157290296638
+    second: Atoms_64
+  - first:
+      213: 7776376460310127120
+    second: Atoms_65
+  - first:
+      213: -2190286976074550463
+    second: Atoms_66
+  - first:
+      213: 6270757279018347183
+    second: Atoms_67
+  - first:
+      213: 8615066478497761654
+    second: Atoms_68
+  - first:
+      213: -5502599207221373321
+    second: Atoms_69
+  - first:
+      213: -7372547181526767115
+    second: Atoms_70
+  - first:
+      213: -1015348417918528883
+    second: Atoms_71
+  - first:
+      213: 3360390994154766542
+    second: Atoms_72
+  - first:
+      213: -923244903046892478
+    second: Atoms_73
+  - first:
+      213: 2037548524767205809
+    second: Atoms_74
+  - first:
+      213: -8952564128112754690
+    second: Atoms_75
+  - first:
+      213: -284965383552401981
+    second: Atoms_76
+  - first:
+      213: 2932900061413468084
+    second: Atoms_77
+  - first:
+      213: 1106251256739055669
+    second: Atoms_78
+  - first:
+      213: -769987560059644489
+    second: Atoms_79
+  - first:
+      213: -135270080265459464
+    second: Atoms_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atoms_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b01d4977e3693f30800000000000000
+      internalID: 4555782343885656248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 440
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf1d7b8c53b97ea0800000000000000
+      internalID: -5874467028869505108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 440
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2095923c8a5796600800000000000000
+      internalID: 462029804471408898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 440
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e5823a7a3f9da00800000000000000
+      internalID: 781923911647911440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 440
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3bd01c850cb6150800000000000000
+      internalID: 5866994427008758739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 440
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb38ad29fb1a80f40800000000000000
+      internalID: 5694979572984611775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 440
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93734296781322170800000000000000
+      internalID: 8152132733148346169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 440
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0ca5c5790a76d50800000000000000
+      internalID: 6730524740078452977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 440
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e436609c5dbb1faf0800000000000000
+      internalID: -364303567965232306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e119c3fedc92bd090800000000000000
+      internalID: -8008761547889536738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 385
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c198d91a8464680800000000000000
+      internalID: -8771243365287519075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 385
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50f8e34e5e298ba0800000000000000
+      internalID: -6086282439013371812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 385
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e57180e64215280800000000000000
+      internalID: -9056417320664605034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 385
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1eb49e7218a5420800000000000000
+      internalID: 2619548141687136722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_14
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 385
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930c5a0d099ad0770800000000000000
+      internalID: 8578699304651571257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_15
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 385
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a26598344083b510800000000000000
+      internalID: 1563734526123139753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_16
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 385
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2c8e64b14483c0800000000000000
+      internalID: -4358286296183198363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_17
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 385
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ae1e211e4641f80800000000000000
+      internalID: -8136767708904429039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e30daccc68769b0800000000000000
+      internalID: -5086949039957590377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 330
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f75260d84f74d010800000000000000
+      internalID: 1212734150379984885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 330
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d648922704eb460800000000000000
+      internalID: 7259310508434812172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 330
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3c9a51acb2e7e40800000000000000
+      internalID: 5656006328970757097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_22
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 330
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3e4ea57be98adb0800000000000000
+      internalID: -4780396494112627757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 330
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ebd8af30ce70880800000000000000
+      internalID: -8644681457881727401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 330
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8624d9b10c59e6390800000000000000
+      internalID: -7823150850366422424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 330
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab37c9b0cc809ea0800000000000000
+      internalID: -5868035555085304915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_26
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 330
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42fef589b9defcd0800000000000000
+      internalID: -2522339350440644018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765c6d7181f1c8be0800000000000000
+      internalID: -1473768789717367449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 275
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77293879635a92c0800000000000000
+      internalID: -4424131971484407940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 275
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962c067a357153740800000000000000
+      internalID: 5131032998516408937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 275
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b360cdbe44b6dc10800000000000000
+      internalID: 2078046528362013619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 275
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96544972cad641f00800000000000000
+      internalID: 1086613996268963177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 275
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786c85faf55762d90800000000000000
+      internalID: -7122876706815687033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_33
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 275
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07253a74f12295a40800000000000000
+      internalID: 5357350749475132016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_34
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 275
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4982baac29171d0800000000000000
+      internalID: -3354738848261696351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_35
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 275
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9e67375be7b3d00800000000000000
+      internalID: 953495063910345136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accdc5683863561e0800000000000000
+      internalID: -2205296504005141302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 220
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae49014d605ef660800000000000000
+      internalID: 7421457666125942445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 220
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af4b2fba6218fd70800000000000000
+      internalID: 9077025298648354725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 220
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0bb4b2c1ae15ef0800000000000000
+      internalID: -121058308255928114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_40
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845d11a18944dc6a0800000000000000
+      internalID: -6427405673124735672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 220
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581d409b7867361a0800000000000000
+      internalID: -6817475085612035707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 220
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7015735e130e67810800000000000000
+      internalID: 1762842809065754887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_43
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 220
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be227071d4e9599e0800000000000000
+      internalID: -1615210837406440725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 220
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d7daecf74fc8410800000000000000
+      internalID: 1480827207263550815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4379f3abea648d0800000000000000
+      internalID: -2862408398193347397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_46
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 165
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ebb71f1fa228460800000000000000
+      internalID: 7242398369392082563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 165
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b818ef18b29c358b0800000000000000
+      internalID: -5164563158962110069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_48
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 165
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919b8fccd6be91730800000000000000
+      internalID: 3970463403326617881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_49
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 165
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cee8ab8b15e9670800000000000000
+      internalID: 8547358996641541162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_50
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 165
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141ea71d882e2e950800000000000000
+      internalID: 6476988291370115393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_51
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 165
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afc17e5243c33630800000000000000
+      internalID: 3905679991680126886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_52
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 165
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a251a066f9fd05470800000000000000
+      internalID: 8381444782241223978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_53
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 165
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415e0876e4fa1fef0800000000000000
+      internalID: -76086967409777388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b8cdf0aaeebdf70800000000000000
+      internalID: 9213219876894444406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_55
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 110
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687503f925ba78860800000000000000
+      internalID: 7532177273146857350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_56
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9259e3e8963242e0800000000000000
+      internalID: -2143090442388286820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_57
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 110
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a09715c7b2ae24e0800000000000000
+      internalID: -2004485873963921248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_58
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 110
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1592a4cfbd491c3f0800000000000000
+      internalID: -882260379436439215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_59
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 110
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9e282c843983670800000000000000
+      internalID: 8518720635881581050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_60
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 110
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682691334825faa70800000000000000
+      internalID: 8840375321298035334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_61
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 110
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262f165d7e5e17e00800000000000000
+      internalID: 1040865772779467362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_62
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 110
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21155d74fde9e920800000000000000
+      internalID: 3020206659459158317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588a799d371b7e3e0800000000000000
+      internalID: -2024454396349798267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_64
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca940b58549df1a0800000000000000
+      internalID: -6774095157290296638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_65
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 55
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012ae7c803d3beb60800000000000000
+      internalID: 7776376460310127120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_66
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 55
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14379e299998a91e0800000000000000
+      internalID: -2190286976074550463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_67
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 55
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa65987584360750800000000000000
+      internalID: 6270757279018347183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_68
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 55
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6790c3f415dde8770800000000000000
+      internalID: 8615066478497761654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_69
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 55
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7765930dc27d2a3b0800000000000000
+      internalID: -5502599207221373321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_70
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 55
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f92a4b56637fa990800000000000000
+      internalID: -7372547181526767115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_71
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 55
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8216b25ef1c8e1f0800000000000000
+      internalID: -1015348417918528883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec044091ec182ae20800000000000000
+      internalID: 3360390994154766542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_73
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2443339f6a9ff23f0800000000000000
+      internalID: -923244903046892478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_74
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9de5f7693d64c10800000000000000
+      internalID: 2037548524767205809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_75
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3fe2bb5a12c380800000000000000
+      internalID: -8952564128112754690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd73145e799b0cf0800000000000000
+      internalID: -284965383552401981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_77
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b765421111c3b820800000000000000
+      internalID: 2932900061413468084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_78
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538c24628a13a5f00800000000000000
+      internalID: 1106251256739055669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_79
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5dc29c4647055f0800000000000000
+      internalID: -769987560059644489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoms_80
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8e905249c6f1ef0800000000000000
+      internalID: -135270080265459464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c44f385e0d6bc54598014db5f182105
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
