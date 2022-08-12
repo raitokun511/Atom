@@ -1,0 +1,710 @@
+fileFormatVersion: 2
+guid: 19edd5378fccd1648ae06bea06e9b593
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8911937941578485615
+    second: LevelNumber_0
+  - first:
+      213: 2439540888473781723
+    second: LevelNumber_1
+  - first:
+      213: 3053036710456424592
+    second: LevelNumber_2
+  - first:
+      213: 2468182668995307165
+    second: LevelNumber_3
+  - first:
+      213: 2832073006908515944
+    second: LevelNumber_4
+  - first:
+      213: 4308685141577940416
+    second: LevelNumber_5
+  - first:
+      213: 4071609968233390305
+    second: LevelNumber_6
+  - first:
+      213: -3007157547552034844
+    second: LevelNumber_7
+  - first:
+      213: -4765499788863353186
+    second: LevelNumber_8
+  - first:
+      213: 2076225450540535975
+    second: LevelNumber_9
+  - first:
+      213: 6835962450016372608
+    second: LevelNumber_10
+  - first:
+      213: 8466295534040607578
+    second: LevelNumber_11
+  - first:
+      213: -8785702180476059322
+    second: LevelNumber_12
+  - first:
+      213: -8420178349219866582
+    second: LevelNumber_13
+  - first:
+      213: -7084865241729847707
+    second: LevelNumber_14
+  - first:
+      213: 3923898392962220964
+    second: LevelNumber_15
+  - first:
+      213: -5468435620586745169
+    second: LevelNumber_16
+  - first:
+      213: 4710565274757168890
+    second: LevelNumber_17
+  - first:
+      213: 6606555332376287000
+    second: LevelNumber_18
+  - first:
+      213: -8094172945825878653
+    second: LevelNumber_19
+  - first:
+      213: 1699747862446282888
+    second: LevelNumber_20
+  - first:
+      213: 390386700794394272
+    second: LevelNumber_21
+  - first:
+      213: -2775452355463949758
+    second: LevelNumber_0
+  - first:
+      213: 6055236937128559510
+    second: LevelNumber_1
+  - first:
+      213: -878017752968302516
+    second: LevelNumber_2
+  - first:
+      213: -7199589087446295133
+    second: LevelNumber_3
+  - first:
+      213: -8253267242898669759
+    second: LevelNumber_4
+  - first:
+      213: -3855259745021617541
+    second: LevelNumber_5
+  - first:
+      213: -1416280366564154824
+    second: LevelNumber_6
+  - first:
+      213: -3999564452360560858
+    second: LevelNumber_7
+  - first:
+      213: -57819763760664849
+    second: LevelNumber_8
+  - first:
+      213: -8020145061252079670
+    second: LevelNumber_9
+  - first:
+      213: 7316845849719002328
+    second: LevelNumber_10
+  - first:
+      213: -9212135040565367589
+    second: LevelNumber_11
+  - first:
+      213: 4038748099165167759
+    second: LevelNumber_12
+  - first:
+      213: -6336953285665570788
+    second: LevelNumber_13
+  - first:
+      213: 6179051595525055314
+    second: LevelNumber_14
+  - first:
+      213: 8274914840528862958
+    second: LevelNumber_15
+  - first:
+      213: -6100103206281126667
+    second: LevelNumber_16
+  - first:
+      213: -2232075219596293985
+    second: LevelNumber_17
+  - first:
+      213: 5345637673288071918
+    second: LevelNumber_18
+  - first:
+      213: 3528398802325896183
+    second: LevelNumber_19
+  - first:
+      213: -5559275831943710460
+    second: LevelNumber_20
+  - first:
+      213: 6150534188355914082
+    second: LevelNumber_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelNumber_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 37
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242dc85a9cc9b79d0800000000000000
+      internalID: -2775452355463949758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 37
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6934f5c89e5880450800000000000000
+      internalID: 6055236937128559510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 37
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4076df6187a0d3f0800000000000000
+      internalID: -878017752968302516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 37
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad1cf9bedbe51c90800000000000000
+      internalID: -7199589087446295133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 37
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f38a69b21867d80800000000000000
+      internalID: -8253267242898669759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 37
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a9f1d10bd5f7ac0800000000000000
+      internalID: -3855259745021617541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 37
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8326598a28c585ce0800000000000000
+      internalID: -1416280366564154824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 37
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fd4c83251be78c0800000000000000
+      internalID: -3999564452360560858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 37
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee6c003b35923ff0800000000000000
+      internalID: -57819763760664849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 37
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf57f03f88b2b090800000000000000
+      internalID: -8020145061252079670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4dac4b888aa8560800000000000000
+      internalID: 7316845849719002328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 18
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc2c241dfbe72080800000000000000
+      internalID: -9212135040565367589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 18
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80260c7ff38c0830800000000000000
+      internalID: 4038748099165167759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10c8a1bf8e9e08a0800000000000000
+      internalID: -6336953285665570788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 18
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253e41820b660c550800000000000000
+      internalID: 6179051595525055314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 18
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeb450843766d270800000000000000
+      internalID: 8274914840528862958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 18
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc54602474185ba0800000000000000
+      internalID: -6100103206281126667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 18
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98c200f9631601e0800000000000000
+      internalID: -2232075219596293985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 18
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaf74634258f2a40800000000000000
+      internalID: 5345637673288071918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb7c86340467f030800000000000000
+      internalID: 3528398802325896183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409b49cc51c79d2b0800000000000000
+      internalID: -5559275831943710460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelNumber_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26989d3e1461b5550800000000000000
+      internalID: 6150534188355914082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
