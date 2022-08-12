@@ -1,0 +1,1343 @@
+fileFormatVersion: 2
+guid: 66f670a0a4dd573439e8dd94bf175663
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5695911186596704938
+    second: announcebold_0
+  - first:
+      213: -2840392863966799967
+    second: announcebold_0
+  - first:
+      213: 2671303632927421076
+    second: announcebold_1
+  - first:
+      213: 1720760071004087786
+    second: announcebold_2
+  - first:
+      213: -2611040313397234326
+    second: announcebold_3
+  - first:
+      213: -5761210652777447195
+    second: announcebold_4
+  - first:
+      213: 7845286330476545746
+    second: announcebold_5
+  - first:
+      213: -5181089433636524002
+    second: announcebold_6
+  - first:
+      213: 3649981380781407721
+    second: announcebold_7
+  - first:
+      213: 5897788422235087989
+    second: announcebold_8
+  - first:
+      213: -1656316246894070425
+    second: announcebold_9
+  - first:
+      213: 3998248612983623371
+    second: announcebold_10
+  - first:
+      213: -3782213827137455444
+    second: announcebold_11
+  - first:
+      213: 6735217029362929249
+    second: announcebold_12
+  - first:
+      213: 2690431000302820296
+    second: announcebold_13
+  - first:
+      213: -400365755800222397
+    second: announcebold_14
+  - first:
+      213: -8095133391266403712
+    second: announcebold_15
+  - first:
+      213: -2797264302052231570
+    second: announcebold_16
+  - first:
+      213: -5692084797525236958
+    second: announcebold_17
+  - first:
+      213: 667908507099853113
+    second: announcebold_18
+  - first:
+      213: -1436448528586993638
+    second: announcebold_19
+  - first:
+      213: 3586184843985582334
+    second: announcebold_20
+  - first:
+      213: -2168011450438984667
+    second: announcebold_21
+  - first:
+      213: -6051454831573107413
+    second: announcebold_22
+  - first:
+      213: -1559645060783218898
+    second: announcebold_23
+  - first:
+      213: -7406446135445148617
+    second: announcebold_24
+  - first:
+      213: 5601475131728366550
+    second: announcebold_25
+  - first:
+      213: 3870338923761371344
+    second: announcebold_26
+  - first:
+      213: -606899933458285958
+    second: announcebold_27
+  - first:
+      213: -2186655092308360976
+    second: announcebold_28
+  - first:
+      213: 8709292232104425062
+    second: announcebold_29
+  - first:
+      213: 6985141925891875709
+    second: announcebold_30
+  - first:
+      213: 4027459237802650022
+    second: announcebold_31
+  - first:
+      213: -6725957266297750025
+    second: announcebold_32
+  - first:
+      213: -4418207465773650972
+    second: announcebold_33
+  - first:
+      213: 5908500746705331317
+    second: announcebold_34
+  - first:
+      213: -8428671735126307587
+    second: announcebold_35
+  - first:
+      213: 2256074501728503588
+    second: announcebold_36
+  - first:
+      213: -1403591850181957606
+    second: announcebold_37
+  - first:
+      213: 678109817175739802
+    second: announcebold_38
+  - first:
+      213: 7230843641613021745
+    second: announcebold_39
+  - first:
+      213: -3156608494546418336
+    second: announcebold_40
+  - first:
+      213: -3249692605255286002
+    second: announcebold_41
+  - first:
+      213: -7480218436568968610
+    second: announcebold_42
+  - first:
+      213: -1480870454208755752
+    second: announcebold_43
+  - first:
+      213: 1636803326768705565
+    second: announcebold_44
+  - first:
+      213: -3375273103014207866
+    second: announcebold_45
+  - first:
+      213: -4752768238415355211
+    second: announcebold_46
+  - first:
+      213: -5665845843931871522
+    second: announcebold_47
+  - first:
+      213: -4688582902007992077
+    second: announcebold_48
+  - first:
+      213: 3982215364041113982
+    second: announcebold_49
+  - first:
+      213: 94926612155630456
+    second: announcebold_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: announcebold_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a754b04db5e498d0800000000000000
+      internalID: -2840392863966799967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49279df3080621520800000000000000
+      internalID: 2671303632927421076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5efd7ea2e51e710800000000000000
+      internalID: 1720760071004087786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65bbb93ba8b3cbd0800000000000000
+      internalID: -2611040313397234326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0010d7f611c00b0800000000000000
+      internalID: -5761210652777447195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d64849f95e00ec60800000000000000
+      internalID: 7845286330476545746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10b0965c921918b0800000000000000
+      internalID: -5181089433636524002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edf3463ab657a230800000000000000
+      internalID: 3649981380781407721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574ebbb725729d150800000000000000
+      internalID: 5897788422235087989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765bb2426259309e0800000000000000
+      internalID: -1656316246894070425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce469c0ee1ac7730800000000000000
+      internalID: 3998248612983623371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_11
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caab6e03090e28bc0800000000000000
+      internalID: -3782213827137455444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_12
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ec658143c487d50800000000000000
+      internalID: 6735217029362929249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb9fb18db4565520800000000000000
+      internalID: 2690431000302820296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3450c41677d917af0800000000000000
+      internalID: -400365755800222397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aa92c021f48af80800000000000000
+      internalID: -8095133391266403712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_16
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 0
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66bb4510fe1e29d0800000000000000
+      internalID: -2797264302052231570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2236b1cd807a101b0800000000000000
+      internalID: -5692084797525236958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_18
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931f52c9f33e44900800000000000000
+      internalID: 667908507099853113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_19
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 0
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1090738ca5b01ce0800000000000000
+      internalID: -1436448528586993638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_20
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef876ac7d10b4c130800000000000000
+      internalID: 3586184843985582334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_21
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cda9b821da9e1e0800000000000000
+      internalID: -2168011450438984667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_22
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d73c584e9e40ca0800000000000000
+      internalID: -6051454831573107413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_23
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fd250a4170b5ae0800000000000000
+      internalID: -1559645060783218898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_24
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 0
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c2ab81b74073990800000000000000
+      internalID: -7406446135445148617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_25
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 0
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db8ad454ff6cbd40800000000000000
+      internalID: 5601475131728366550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_26
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 0
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d80a27ceb436b530800000000000000
+      internalID: 3870338923761371344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_27
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 0
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ab20cd9bbd397f0800000000000000
+      internalID: -606899933458285958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_28
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f049a867c077a1e0800000000000000
+      internalID: -2186655092308360976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_29
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66637ab242f9dd870800000000000000
+      internalID: 8709292232104425062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_30
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73297e929530f060800000000000000
+      internalID: 6985141925891875709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_31
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9a790a6d864e730800000000000000
+      internalID: 4027459237802650022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_32
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 0
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd7ddf708998a2a0800000000000000
+      internalID: -6725957266297750025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_33
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 0
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb2592f7bf5fa2c0800000000000000
+      internalID: -4418207465773650972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_34
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5746082ef163ff150800000000000000
+      internalID: 5908500746705331317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_35
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 0
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfccb63c6b7570b80800000000000000
+      internalID: -8428671735126307587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_36
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 0
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427085e5ecf2f4f10800000000000000
+      internalID: 2256074501728503588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_37
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 0
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18654816a0758ce0800000000000000
+      internalID: -1403591850181957606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_38
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 0
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d07733941296900800000000000000
+      internalID: 678109817175739802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_39
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 0
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1327cbc3bfd195460800000000000000
+      internalID: 7230843641613021745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_40
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06584937c497134d0800000000000000
+      internalID: -3156608494546418336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_41
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 0
+        width: 13
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e038b8a0bc5c6e2d0800000000000000
+      internalID: -3249692605255286002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_42
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 0
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e529afdb6fce03890800000000000000
+      internalID: -7480218436568968610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_43
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 0
+        width: 13
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7048afa24e27be0800000000000000
+      internalID: -1480870454208755752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_44
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10f93b14f717b610800000000000000
+      internalID: 1636803326768705565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_45
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 0
+        width: 13
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e58eaeefe9821d0800000000000000
+      internalID: -3375273103014207866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_46
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b26e79e776ca0eb0800000000000000
+      internalID: -4752768238415355211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_47
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 0
+        width: 27.72
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed64150593fde51b0800000000000000
+      internalID: -5665845843931871522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_48
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 27.72
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0f7d911beceeeb0800000000000000
+      internalID: -4688582902007992077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_49
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 0
+        width: 27.72
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7106c066cba34730800000000000000
+      internalID: 3982215364041113982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: announcebold_50
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 27.72
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8738445304f315100800000000000000
+      internalID: 94926612155630456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 923db661244214f448e1d76b4814aa14
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
